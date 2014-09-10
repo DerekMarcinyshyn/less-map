@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name:        LESS 17 Google Map
-Plugin URI:         http://blog.lessoneseven.com/
+Plugin URI:         https://github.com/DerekMarcinyshyn/less-map
 Description:        Google map for LESS 17
 Version:            1.0.0
 Author:             Derek Marcinyshyn
-Author URI:         http://www.lessoneseven.com/
+Author URI:         http://www.monasheemountainmultimedia.com/
 
 License:            MIT License
 License URI:        http://opensource.org/licenses/MIT
